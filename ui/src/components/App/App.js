@@ -11,7 +11,7 @@ const getHeader = () => (
         <h1>
           <img
             width={200}
-            src="/logo-dark-inline.png"
+            src="/board-game-recs/logo-dark-inline.png"
             alt="BoardGameRecs"
             className="logo-img"
           />
@@ -53,7 +53,7 @@ class App extends Component {
 
   async componentDidMount() {
     try {
-      const gamesResponse = await fetch('/data/games.json');
+      const gamesResponse = await fetch('/board-game-recs/data/games.json');
       const gameIdToGameObject = await gamesResponse.json();
 
       const gameIdToGameMap = new Map(
@@ -64,7 +64,7 @@ class App extends Component {
         })
       );
 
-      const recsResponse = await fetch('/data/recs.json');
+      const recsResponse = await fetch('/board-game-recs/data/recs.json');
       const recsObject = await recsResponse.json();
       const recsMap = new Map(
         Object.entries(recsObject).map((entry) => {
