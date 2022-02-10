@@ -1,4 +1,14 @@
 {
-    "python.defaultInterpreterPath": "lab/venv/bin/python",
-    "editor.formatOnSave": true,
+  "python.defaultInterpreterPath": "lab/venv/bin/python",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "[javascript]": {
+    "editor.formatOnSave": false
+  },
+  "eslint.codeAction.showDocumentation": {
+    "enable": true
+  },
+  "eslint.alwaysShowStatus": true,
 }
