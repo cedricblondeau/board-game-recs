@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.1792e36b.css",
-    "main.js": "/static/js/main.c56d0c30.js",
-    "static/js/787.e98453cc.chunk.js": "/static/js/787.e98453cc.chunk.js",
-    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
-    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
-    "index.html": "/index.html",
-    "main.1792e36b.css.map": "/static/css/main.1792e36b.css.map",
-    "main.c56d0c30.js.map": "/static/js/main.c56d0c30.js.map",
-    "787.e98453cc.chunk.js.map": "/static/js/787.e98453cc.chunk.js.map"
+    "main.css": "/board-game-recs/static/css/main.f69c0842.css",
+    "main.js": "/board-game-recs/static/js/main.f488a298.js",
+    "static/js/787.e98453cc.chunk.js": "/board-game-recs/static/js/787.e98453cc.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/board-game-recs/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
+    "static/media/bootstrap-icons.woff2?": "/board-game-recs/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
+    "index.html": "/board-game-recs/index.html",
+    "main.f69c0842.css.map": "/board-game-recs/static/css/main.f69c0842.css.map",
+    "main.f488a298.js.map": "/board-game-recs/static/js/main.f488a298.js.map",
+    "787.e98453cc.chunk.js.map": "/board-game-recs/static/js/787.e98453cc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1792e36b.css",
-    "static/js/main.c56d0c30.js"
+    "static/css/main.f69c0842.css",
+    "static/js/main.f488a298.js"
   ]
 }
