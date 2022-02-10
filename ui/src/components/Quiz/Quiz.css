@@ -1,0 +1,19 @@
+.quiz-btn-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  width: 100%;
+  height: auto;
+  background: rgba(34, 47, 62, 0.95);
+  position: fixed;
+  bottom: 0px;
+}
+
+.quiz {
+  padding-bottom: 100px;
+}
+
+.quiz input[type="checkbox"] {
+  display: none;
+}
