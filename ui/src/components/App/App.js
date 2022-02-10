@@ -7,7 +7,7 @@ import Recs from '../Recs/Recs';
 const getHeader = () => (
   <header>
     <div className="wrapper header-container">
-      <a href="/">
+      <a href="/board-game-recs">
         <h1>
           <img
             width={200}
