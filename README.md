@@ -18,7 +18,9 @@ https://cedricblondeau.github.io/board-game-recs/
 
 `board-games-recs` is powered by a [collaborative filtering](https://en.wikipedia.org/wiki/Collaborative_filtering) ML model. It uses reviews from users with similar tastes to compute similarity between games.
 
-Model is trained with [FastAI](https://docs.fast.ai/collab.html) which also provides great tooling for assembling data and recs are then written to a JSON file and exposed through a [React-based UI](ui). See this [notebook](lab/model.ipynb) for more information.
+Model is trained with [FastAI](https://docs.fast.ai/collab.html) which provides great tooling for assembling data. See this [notebook](lab/model.ipynb) for more information.
+
+Recommendations are written to a JSON file and exposed through a [React-based UI](ui). 
 
 ## Table of contents
 
