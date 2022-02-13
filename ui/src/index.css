@@ -180,15 +180,17 @@ h3 {
 .grid__item-like-overlay--liked {
   visibility: visible;
 }
-.grid__item--link .grid__item-img {
-  -webkit-transform: scale(1);
-  transform: scale(1);
-  -webkit-transition: 0.1s ease-in-out;
-  transition: 0.1s ease-in-out;
-}
-.grid__item--link:hover .grid__item-img {
-  -webkit-transform: scale(1.1);
-  transform: scale(1.1);
+@media (hover: hover) {
+  .grid__item--link .grid__item-img {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-transition: 0.1s ease-in-out;
+    transition: 0.1s ease-in-out;
+  }
+  .grid__item--link:hover .grid__item-img {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+  }
 }
 
 /** Messages **/
