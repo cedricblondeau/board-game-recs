@@ -1,6 +1,6 @@
-<div style="text-align:center; font-weight: bold;">
-  <a href="https://cedricblondeau.github.io/board-game-recs/" title="Live demo">Live demo</a>
-</div>
+<p align="center">
+  <strong><a href="https://cedricblondeau.github.io/board-game-recs/" title="Live demo">Live demo</a></strong>
+</p>
 
 ![board-game-recs-demo](demo.jpg)
 
