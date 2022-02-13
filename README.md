@@ -2,7 +2,7 @@
   <strong><a href="https://cedricblondeau.github.io/board-game-recs/" title="Live demo">✨ Live demo ✨</a></strong>
 </p>
 
-![board-game-recs-demo](demo.jpg)
+[![board-game-recs-demo](demo.jpg)](https://cedricblondeau.github.io/board-game-recs/)
 
 # board-game-recs
 
