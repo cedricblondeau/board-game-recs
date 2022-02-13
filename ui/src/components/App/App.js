@@ -23,7 +23,7 @@ const getHeader = () => (
           target="_blank"
           rel="noreferrer"
         >
-          Data is sourced from BoardGameGeek API
+          BGG API
         </a>
         <a
           href="https://www.github.com/cedricblondeau/board-game-recs"
@@ -31,7 +31,7 @@ const getHeader = () => (
           target="_blank"
           rel="noreferrer"
         >
-          See on GitHub
+          GitHub
         </a>
       </div>
     </div>
